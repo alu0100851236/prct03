@@ -1,5 +1,13 @@
 Respuestas a las preguntas de la práctica 3
 
+1.- ¿Cuál es el propósito de trabajar con mútliples ramas?
+
+    El propósito es poder realizar hotfix, desarrollos, nuevas funcionalidades, sin modificar la rama master y cuando ya lo hayamos testeado y poderlo añadir al rama master.
+
 2.- ¿Qué es una reorganización (rebase)?
 
+    Es unificar dos ramas que estemos trabajando dentro del mismo proyecto, es decir, podemos coger los cambios confirmados de una rama y reaplicarlos sobre otra rama.
 
+3.- ¿Cuál es la ventaja de reorganizar (rebase)?
+    
+    Con el rebase se conserva el historial de cambios
