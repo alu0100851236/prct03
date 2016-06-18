@@ -1,1 +1,2 @@
 Respuestas a las preguntas de la práctica 3
+3.- ¿Cuál es la ventaja de reorganiar (rebase)?
